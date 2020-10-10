@@ -10,6 +10,7 @@
 
 ### Battery status monitor
 
+
 ### Benjamin Franklin's 13 Virtues app
 ### Book search
 
@@ -190,6 +191,9 @@ Let the user register his location and then give reports showing which beaches a
 ### Twitter client
 
 ### Typing test
+
+### Uber client
+A simplified uber app for working with maps and directions
 
 ### URL shortener
 
